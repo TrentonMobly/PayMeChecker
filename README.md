@@ -7,4 +7,4 @@ Useful to possibly trace the user who created a specific PayPal link.
 The script is being edited, there may be errors or malfunctions
 
 HOW TO USE
-run the script through cmd, and with the results on screen!
+run the script through your temrinal/cmd, and wait the results on screen!
